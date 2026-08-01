@@ -1,0 +1,52 @@
+# SLEEK EV
+
+> Electric motorcycles designed for sustainable urban mobility in Southeast Asia.
+
+## About
+
+SLEEK EV is a Thai-Singaporean electric motorcycle company founded in 2022, headquartered in Singapore with primary operations in Thailand. The company's mission is "Sustainability must be affordable" — making EV 2-wheelers accessible for everyday riders. SLEEK EV is BOI-certified and backed by ORZON Ventures (OR + 500 TukTuks), January Capital, A2D Ventures, and Krungsri Finnovate.
+
+## Products
+
+- [TYPE-S](https://www.sleekev.com/products/type-s): Affordable everyday electric motorcycle — from 55,900 THB
+- [TYPE-E](https://www.sleekev.com/products/type-e): Classic-inspired premium electric motorcycle — from 79,900 THB
+- [TYPE-X](https://www.sleekev.com/products/type-x): Performance / long-distance electric motorcycle — from 89,900 THB
+- [SLEEK Play 1.0](https://www.sleekev.com/products/sleek-play-10): Urban commuter scooter — from 69,900 THB
+
+## Services
+
+- [S-Charge](https://www.sleekev.com/s-charge): Fast-charging station network (100+ stations in Bangkok, 30%→80% in 42 minutes, 100% carbon neutral)
+- [SLEEK App]: Vehicle monitoring, route planning, S-Charge station finder, battery alerts
+- [Dealerships](https://www.sleekev.com/dealerships): Nationwide dealer network across Thailand
+- [Dealer Application](https://www.sleekev.com/dealer/apply): Apply to become a SLEEK EV dealer
+
+## Reservation
+
+Reserve online with QR PromptPay or Mobile Banking. Hire purchase financing available through Krungsri.
+
+- [Reserve TYPE-S](https://www.sleekev.com/products/type-s/reservation)
+- [Reserve TYPE-X](https://www.sleekev.com/products/type-x/reservation)
+- [Reserve TYPE-E](https://www.sleekev.com/products/type-e/reservation)
+- [Reserve SLEEK Play 1.0](https://www.sleekev.com/products/sleek-play-10/reservation)
+
+## Technology
+
+- **Powertrain**: S-DRIVE 1.0 (1,500W / 3,000W)
+- **Battery**: SLEEK EV Lithium-Ion with 1,000+ charge cycles, IP67 rated
+- **Battery Partner**: Ampace (under CATL)
+- **Driving Modes**: Eco / Standard / Sport
+- **Braking**: Disc brakes + Combined Braking System (CBS)
+
+## News
+
+- [Latest News](https://www.sleekev.com/news)
+
+## Full Documentation
+
+- [Full company and product details](https://www.sleekev.com/llms-full.txt): Complete product specifications, pricing, partnerships, milestones, and FAQs
+
+## Contact
+
+- Website: [https://www.sleekev.com](https://www.sleekev.com)
+- Facebook: [https://www.facebook.com/sleekelectricvehicle](https://www.facebook.com/sleekelectricvehicle)
+- Privacy Policy: [https://www.sleekev.com/privacy-policy](https://www.sleekev.com/privacy-policy)

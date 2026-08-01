@@ -1,7 +1,13 @@
 aid: sleek-ev
 name: Sleek EV
-description: Sleek EV is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'Sleek EV (SLEEK EV) is a Thai-Singaporean electric motorcycle company founded in 2022,
+  headquartered in Singapore with primary operations in Thailand. Under the mission "Sustainability must
+  be affordable," it builds accessible electric two-wheelers — the TYPE-S, TYPE-E and TYPE-X motorcycles
+  and the SLEEK Play 1.0 urban scooter — powered by its S-DRIVE powertrain and IP67-rated lithium-ion
+  batteries (via Ampace/CATL). It runs the S-Charge fast-charging network (100+ stations across Bangkok)
+  and a SLEEK App for vehicle monitoring, route planning and station finding, sold through a nationwide
+  dealer network. BOI-certified and backed by ORZON Ventures (OR + 500 TukTuks), January Capital, A2D
+  Ventures and Krungsri Finnovate. This is a consumer product company with no public developer/API surface.'
 url: https://raw.githubusercontent.com/api-evangelist/sleek-ev/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +15,30 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://www.sleekev.com/favicon.png
 tags:
 - Company
+- Electric Vehicles
+- Electric Motorcycles
+- EV Charging
+- Sustainability
+- Mobility
+- Thailand
+- Southeast Asia
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +46,18 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/sleek-ev-domain-security.yml
+- type: LLMsTxt
+  url: llms/sleek-ev-llms.txt
 - type: Website
   url: https://sleekev.com
+- type: Blog
+  url: https://www.sleekev.com/news
+- type: PrivacyPolicy
+  url: https://www.sleekev.com/privacy-policy
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
